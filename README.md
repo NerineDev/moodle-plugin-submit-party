@@ -70,7 +70,10 @@ Although the current version focuses on providing a stable functional base, the 
 This repository contains the code developed for the plugin.
 
 ### Presentation video:  
-[View on Youtube](https://youtu.be/xUT77CxXmB8)
+[View on Youtube](https://youtu.be/yvYbLau81es)
+
+## License
+This project is licensed under the GNU GPL v3 or later.
 
 ## Author
 Nerine Aoi 
@@ -147,7 +150,10 @@ Aunque la versión actual se centra en ofrecer una base funcional estable, el pl
 Este repositorio recoge el código del plugin desarrollado para la práctica.
 
 Vídeo de presentación:  
-[Ver en Youtube](https://youtu.be/xUT77CxXmB8)
+[Ver en Youtube](https://youtu.be/yvYbLau81es)
+
+## Licencia
+Este proyecto está licenciado bajo GNU GPL v3 o posterior.
 
 ## Autoría
 Nerine Aoi
