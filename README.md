@@ -80,7 +80,7 @@ Nerine Aoi
 
 ---
 
-## Espanol
+## Español
 
 **Submit Party** es un plugin de tipo bloque para **Moodle 5.1.3**.  
 Su finalidad es servir como base para una futura funcionalidad de celebración de entregas dentro de la plataforma, incorporando una pequeña interacción visual y un punto de partida para posibles mejoras posteriores.
